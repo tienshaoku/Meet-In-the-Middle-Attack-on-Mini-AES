@@ -1,4 +1,9 @@
-# Network Security HW4
+# Meet in the Middle Attack on Mini-AES using Python and SageMath
+
+### Description
+```
+Description.pdf
+```
 
 ### Instruction (Linux or MacOs environment):
 ```
