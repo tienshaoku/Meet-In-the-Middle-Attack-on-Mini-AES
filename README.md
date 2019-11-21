@@ -29,10 +29,8 @@ ASCII: M7
 
 ### Explanations:
 
-- **function decrypt()**
-
+- **function decrypt()** <br />
 First decrypt the keys by inputing one of the (text,cipher) set. After getting the two keys, save them to variable *k1* and *k2*.
 
-- **function verify**
-
+- **function verify** <br />
 Later, check if the values of **encrypting *text* with *k1*** and **decrypting *cipher* with *k2*** are equal.
